@@ -125,7 +125,7 @@ module.exports = {
     docs: {
       description: 'Forbid the use of mutating operators.',
       recommended: 'error',
-      url: 'https://github.com/jfmengels/eslint-plugin-fp/tree/master/docs/rules/no-mutation.md'
+      url: 'https://github.com/jfmengels/eslint-plugin-fp/blob/master/docs/rules/no-mutation.md'
     }
   }
 };
